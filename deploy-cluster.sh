@@ -17,7 +17,7 @@ apiVersion: eksctl.io/v1alpha5
 kind: ClusterConfig
 
 metadata:
-  name: eks-saas
+  name: eks-key
   region: ${AWS_REGION}
   version: "1.17"
 
